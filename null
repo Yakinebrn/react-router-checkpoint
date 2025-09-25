@@ -1,0 +1,21 @@
+ {
+      title: "John Wick",
+      tagline: "Revenge is all he has left.",
+      description:
+        "An ex-hitman comes out of retirement to track down the gangsters that killed his dog and took everything from him.",
+      posterURL:
+        "https://fr.web.img2.acsta.net/c_310_420/pictures/14/10/08/11/49/255061.jpg",
+      rating: 4.6,
+      trailer: "https://www.youtube.com/watch?v=C0BMx-qxsP4",
+    },
+    {
+      title: "The Conjuring 2",
+      tagline:
+        "Enfield, London 1977. The next true story from the case files of Ed and Lorraine Warren.",
+      description:
+        "Ed and Lorraine Warren travel to London to help a single mother and her four children plagued by malicious spirits.",
+      posterURL:
+        "https://www.tallengestore.com/cdn/shop/products/TheConjuring2-HollywoodEnglishHorrorMoviePoster_c8d4b4d6-c805-47eb-bbdf-498a41e5bcf2.jpg?v=1625220797",
+      rating: 4.2,
+      trailer: "https://www.youtube.com/watch?v=VFsmuRPClr4",
+    },
