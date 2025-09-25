@@ -11,7 +11,7 @@
     align-items: center;
     gap: 2rem;
     background-color: black;
-    color: white;
+    color:  rgb(206, 206, 102);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .movie-list{
